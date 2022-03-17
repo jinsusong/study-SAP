@@ -1,5 +1,5 @@
 # SAP Programming
-
+- [9일 : Structure type ](https://www.notion.so/9-local-structure-type-631ed53ff95a47ecb75c256f84775429)
 - [8일 : Function Group ](https://www.notion.so/8-Function-Group-2355f1c2f8254cf8bb5fe667977ae8f5)
 - [7일 : Subroutine ](https://www.notion.so/7-Subroutine-6b51e8e7876841578f779d68ddba2a0c)
 - [6일 : ABAP Debug ](https://www.notion.so/6-ABAP-Debugger-0c410e4b1aa4473fbba1398aab5f322b)
