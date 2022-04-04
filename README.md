@@ -1,4 +1,5 @@
 # SAP Programming
+- [17. DB Table](https://www.notion.so/17-DB-table-75bb9c89279a4e148651a5291adbb7bb)
 - [16. Open SQL Query](https://www.notion.so/16-ABAP-Open-SQL-Query-7f33d52ae91b4d1baa8b2778abcb4267)
 - [15. select option ](https://www.notion.so/15-select-option-72ea4ae6e0454a16833ebea6213d6465)
 - [14. Table Join ](https://www.notion.so/14-0b46ed6b5b36460cb3de469b356e36ff)
