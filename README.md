@@ -1,4 +1,6 @@
 # SAP Programming
+- [19. FOREIGN KEY](https://www.notion.so/19-7a29590e90d2473b919340ae1c640c74)
+- [18. Table](https://www.notion.so/18-73486f2f4e934545a6cc37274a0eee76)
 - [17. DB Table](https://www.notion.so/17-DB-table-75bb9c89279a4e148651a5291adbb7bb)
 - [16. Open SQL Query](https://www.notion.so/16-ABAP-Open-SQL-Query-7f33d52ae91b4d1baa8b2778abcb4267)
 - [15. select option ](https://www.notion.so/15-select-option-72ea4ae6e0454a16833ebea6213d6465)
