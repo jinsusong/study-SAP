@@ -1,5 +1,6 @@
 # SAP Programming
-- [29, 검색 프로그램 ](https://www.notion.so/29-b9b21336806943eba9b5356df0563043)
+- [30. system variable 활용](https://www.notion.so/30-system-variable-6217803d729f4749944ba65170b20470)
+- [29. 검색 프로그램 ](https://www.notion.so/29-b9b21336806943eba9b5356df0563043)
 - [28. radio](https://www.notion.so/28-radio-0ff2619619f64d8ba57341f06439fb0a)
 - [27. call screen](https://www.notion.so/27-call-screen-ff07764c514245828756ff13d810c8ec)
 - [26. application toolbar](https://www.notion.so/26-application-toolbar-eed512b10edc45fa963dd6d79f3beab4)
